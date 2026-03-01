@@ -1,20 +1,15 @@
-&lt;div align="center"&gt;
-
 # Привет, меня зовут Александр! 👋
 
 ### 🚀 Java Backend Developer (Junior)
 
-&lt;img src="https://media.giphy.com/media/L1R1tvI9svkIWELaM/giphy.gif" width="300" alt="coding gif"&gt;
 
 *Пишу код, который завтра я сам пойму*
-
-&lt;/div&gt;
 
 ---
 
 ## 🛠️ Мой стек технологий
 
-&lt;div align="center"&gt;
+
 
 | Backend | Базы данных | Инструменты | Тестирование | DevOps |
 |:-------:|:-----------:|:-----------:|:------------:|:------:|
@@ -23,7 +18,7 @@
 | Spring Security | H2 | Git/GitHub | Postman | Nginx |
 | JWT | SQL, JDBC | REST API | | Мониторинг |
 
-&lt;/div&gt;
+
 
 ---
 
@@ -49,7 +44,7 @@
 | AI | OpenRouter API |
 | DevOps | Docker + Docker Compose |
 
-🔗 [github.com/username/java-quiz-app](https://github.com/username/java-quiz-app)
+🔗 [github.com/2AlexD1531/java-quiz-app](https://github.com/2AlexD1531/java-quiz-app)
 
 ---
 
@@ -68,7 +63,7 @@
 
 **⚠️ Требования:** USB-модем с настроенной метрикой сети (чтобы трафик не шёл через SIM-карту)
 
-🔗 [github.com/username/sms-gateway](https://github.com/username/sms-gateway)
+🔗 [github.com/2AlexD1531/sms-gateway](https://github.com/2AlexD1531/SmsGatewayApp)
 
 ---
 
@@ -82,24 +77,9 @@
 - 🧪 Покрытие тестами на JUnit 5
 - 🤝 Командная работа через GitHub
 
-🔗 [github.com/username/filmorate](https://github.com/username/filmorate)
+🔗 [github.com/2AlexD1531/filmorate](https://github.com/2AlexD1531/java-filmorate)
 
 ---
-
-### 🎯 **TaskFlow** — Система управления задачами *(завершён)*
-
-Бэкенд-приложение для управления задачами по принципам Kanban.
-
-**✨ Реализовано:**
-- ⚡ Логика жизненного цикла задач и переходов статусов
-- 🏗️ Объектно-ориентированный дизайн и чистый код
-- 💾 Файловое хранение данных и HTTP API
-
-🔗 [github.com/username/taskflow](https://github.com/username/taskflow)
-
----
-
-
 
 ## 🎓 Образование
 
@@ -110,17 +90,12 @@
 
 ---
 
-&lt;div align="center"&gt;
+
 
 ## 📫 Связаться со мной
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:user@user.ru)
 
-&lt;/div&gt;
-
-&lt;div align="center"&gt;
 
 ---
 
@@ -130,4 +105,4 @@
 
 ⭐️ *Открыт к предложениям о работе и интересным проектам!*
 
-&lt;/div&gt;
+
