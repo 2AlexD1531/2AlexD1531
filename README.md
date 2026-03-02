@@ -49,7 +49,7 @@
 | AI | OpenRouter API |
 | DevOps | Docker + Docker Compose |
 
-🔗 [github.com/2AlexD1531/java-quiz-app](https://github.com/2AlexD1531/java-quiz-app)
+🔗 [github.com/2AlexD1531/java-quiz-app](https://github.com/2AlexD1531/java_quiz_app)
 
 ---
 
