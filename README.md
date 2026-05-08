@@ -118,6 +118,7 @@ docker-compose up -d
 
 🔗 [github.com/2AlexD1531/sms-gateway](https://github.com/2AlexD1531/SmsGatewayApp)
 
+Статья на Хабре https://habr.com/ru/articles/1028892/
 ---
 
 
