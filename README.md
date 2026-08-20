@@ -84,8 +84,8 @@
 ---
 
 ### 📄 Рекомендательные письма
-- [Яндекс Практикум](https://example.com/recommendation-yandex-practicum)
-- [Яндекс Мастерская](https://example.com/recommendation-yandex-workshop)
+- [Яндекс Практикум](https://github.com/2AlexD1531/2AlexD1531/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC.pdf)
+- [Яндекс Мастерская](https://github.com/2AlexD1531/2AlexD1531/blob/main/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F.pdf)
 
 ---
 
