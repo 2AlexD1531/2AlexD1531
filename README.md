@@ -21,6 +21,11 @@
 
 ### 💼 Проекты
 
+🏭 Warehouse System — Backend-сервис учёта товарных запасов (активный)
+
+Микросервисное решение для управления складскими остатками: партии, сроки годности, резервирование, заказы поставщикам. Полный мониторинг, алертинг и горизонтальное масштабирование.
+
+🔗 [github.com/2AlexD1531/warehouse_system](https://github.com/2AlexD1531/warehouse_system)
 
 
 ### 📱 **SMS Gateway App** — Управление через SMS *(активный)*
@@ -75,6 +80,12 @@
 Бэкенд сервис для кинематографической социальной платформы.
 
 🔗 [github.com/2AlexD1531/filmorate](https://github.com/2AlexD1531/java-filmorate)
+
+---
+
+### 📄 Рекомендательные письма
+- [Яндекс Практикум](https://example.com/recommendation-yandex-practicum)
+- [Яндекс Мастерская](https://example.com/recommendation-yandex-workshop)
 
 ---
 
