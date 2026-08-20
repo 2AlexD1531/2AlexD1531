@@ -3,9 +3,6 @@
 ### 🚀 Java Backend Developer
 
 
-*Изучаю Java и новые технологии, пишу свои проекты.*
-
-
 ## 🛠️ Мой стек технологий
 
 | Backend | Базы данных | Инструменты | Тестирование | DevOps |
@@ -34,7 +31,8 @@
 
 🔗 [github.com/2AlexD1531/sms-gateway](https://github.com/2AlexD1531/SmsGatewayApp)
 
-### Статья на Хабре https://habr.com/ru/articles/1028892/
+ Статья на Хабре https://habr.com/ru/articles/1028892/
+ 
 ---
 
 
