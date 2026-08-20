@@ -24,6 +24,7 @@
 
 🔗 [github.com/2AlexD1531/warehouse_system](https://github.com/2AlexD1531/warehouse_system)
 
+---
 
 ### 📱 **SMS Gateway App** — Управление через SMS *(активный)*
 
